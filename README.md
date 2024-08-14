@@ -10,4 +10,3 @@ Currently, two official plugins are available:
 =======
 # appwrite
 users can send email, sms and push notifications using app-write and providers
->>>>>>> 036b27967a509a57485af37c40b16dc0283bd8e3
