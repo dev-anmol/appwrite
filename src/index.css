@@ -1,0 +1,13 @@
+.googlePlay{
+    height: 50px;
+}
+.appStore{
+    height: 70px;
+    width: 200px;
+}
+.link-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
